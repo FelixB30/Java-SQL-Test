@@ -103,6 +103,6 @@ public class SqlJava {
 		} else {
 			System.out.println("Eintrag nicht erfolgreich eingefügt!");
 		}
-
+//Hallo 
 	}
 }
